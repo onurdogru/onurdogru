@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Onur Dogru</h1>
+<h1 align="center">Hello! 👋 I'm Onur Dogru</h1>
 <h3 align="center">frontend developer from Istanbul, Turkey</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/3a/a3/e83aa3c18b39efa325010737b7b16b98.gif">
 
