@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello! 👋 I'm Onur Dogru</h1>
 <h3 align="center">Frontend Developer from Istanbul, Turkey</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/3a/a3/e83aa3c18b39efa325010737b7b16b98.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/3a/a3/e83aa3c18b39efa325010737b7b16b98.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurdogru&label=Profile%20views&color=0e75b6&style=flat" alt="onurdogru" /> </p>
 
