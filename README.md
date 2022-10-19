@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Mars Hostel Web Design**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and React**
 
 - 📫 How to reach me **onurdogruiletisim@gmail.com**
 
