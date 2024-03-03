@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/groovyprimat" target="blank"><img src="https://img.shields.io/twitter/follow/groovyprimat?logo=twitter&style=for-the-badge" alt="groovyprimat" /></a> </p>
 
-- 🔭 I’m currently working on my website
+- 🔭 I’m currently working on my React Projects
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Angular**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and React**
 
 - 📫 How to reach me **onurdogruiletisim@gmail.com**
 
